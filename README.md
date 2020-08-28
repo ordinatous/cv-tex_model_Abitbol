@@ -2,7 +2,7 @@
 
 Auteur original : Adrien Friggeri
 
-Intrigué par le TeX , j'avais décidé de me penchais un peu dessus.
+Intrigué par le TeX , j'avais décidé de me pencher un peu dessus.
 
 Il y a quelques temps je cherchais un model de CV assez *sexy* pour me démarquer
 et j'avais trouvé celui-ci.
